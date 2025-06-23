@@ -1,3 +1,14 @@
 # Numpy-Matrix---Calculator
-A Matrix Calculator is a Python-based project that performs various matrix operations using the NumPy library. This tool is useful for students, engineers, and data scientists who work with matrices frequently.
 
+This is a Python project that performs matrix operations such as addition, subtraction, multiplication, transpose, and inverse using the NumPy library.
+
+📌 Features
+Add two matrices
+
+Subtract two matrices
+
+Multiply two matrices
+
+Transpose a matrix
+
+Inverse of a matrix (if invertible)
